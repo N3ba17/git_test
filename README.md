@@ -1,1 +1,1 @@
-Web interface for new API
+Odin project for learning front-end development!
